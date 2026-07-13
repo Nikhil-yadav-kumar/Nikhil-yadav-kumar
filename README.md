@@ -1,8 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhil-yadav-kumar&color=blue)
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![GitHub followers](https://img.shields.io/github/followers/nikhil-yadav-kumar?style=social)
 
-![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/nikhil-yadav-kumar?style=social)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nikhil+Kumar;Front-End+Developer;Graphic+Designer;Full-Stack+Developer;React+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhil-yadav-kumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 👋 Hi, I'm Nikhil Kumar
 
