@@ -81,9 +81,9 @@ An AI-powered civic intelligence platform that simplifies government policies, s
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/nikhil-yadav-37a430326/
 - Portfolio: https://YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- Email: nikhilyadav72646@gmail.com
 
 ---
 
